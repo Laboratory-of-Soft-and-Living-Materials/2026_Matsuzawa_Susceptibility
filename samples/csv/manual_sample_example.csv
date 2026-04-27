@@ -1,0 +1,97 @@
+﻿Name,volume,KCl,KP,BSA,PEG,NH4OH,NaHCO3,Order of mixing,Comments
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",STARTING SAMPLE
+BSA_form_factor,175,200,100,10,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",STARTING SAMPLE
+BSA_form_factor,175,200,100,10,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",STARTING SAMPLE
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",STARTING SAMPLE
+PEG1,175,200,100,0,22.5,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+PEG2,175,200,100,0,10,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+PEG3,175,200,100,0,15,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+PEG4,175,200,100,0,30,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+PEG5,175,200,100,0,40,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+PEG6,175,200,100,0,45,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",PEG control background
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+S_1,175,200,100,100,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+S_2,175,200,100,125,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+S_3,175,200,100,150,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+S_4,175,200,100,175,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+S_5,175,200,100,185,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+background,175,200,100,0,0,0,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",Structure factor standard conditions
+BNH310,175,200,100,0,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+FNH310,175,200,100,10,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH310,175,200,100,0,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH310_1,175,200,100,100,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH310,175,200,100,0,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH310_2,175,200,100,125,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH310,175,200,100,0,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH310_3,175,200,100,150,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH310,175,200,100,0,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH310_4,175,200,100,165,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH310,175,200,100,0,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH310_5,175,200,100,180,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH310,175,200,100,0,0,10,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH320,175,200,100,0,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+FNH350,175,200,100,10,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH320,175,200,100,0,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH320_1,175,200,100,100,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH320,175,200,100,0,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH320_2,175,200,100,125,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH320,175,200,100,0,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH320_3,175,200,100,150,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH320,175,200,100,0,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH320_4,175,200,100,165,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH320,175,200,100,0,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH320_5,175,200,100,180,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH320,175,200,100,0,0,20,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH330,175,200,100,0,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+FNH350,175,200,100,10,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH330,175,200,100,0,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH330_1,175,200,100,100,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH330,175,200,100,0,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH330_2,175,200,100,125,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH330,175,200,100,0,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH330_3,175,200,100,150,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH330,175,200,100,0,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH330_4,175,200,100,165,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH330,175,200,100,0,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH330_5,175,200,100,180,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH330,175,200,100,0,0,30,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH340,175,200,100,0,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+FNH350,175,200,100,10,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH340,175,200,100,0,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH340_1,175,200,100,100,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH340,175,200,100,0,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH340_2,175,200,100,125,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH340,175,200,100,0,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH340_3,175,200,100,150,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH340,175,200,100,0,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH340_4,175,200,100,165,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH340,175,200,100,0,0,40,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH350,175,200,100,0,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+FNH350,175,200,100,10,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH350,175,200,100,0,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH350_1,175,200,100,100,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH350,175,200,100,0,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH350_2,175,200,100,125,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH350,175,200,100,0,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH350_3,175,200,100,150,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH350,175,200,100,0,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+SNH350_4,175,200,100,165,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNH350,175,200,100,0,0,50,0,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NH3
+BNa40,175,200,100,0,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+FNa40,175,200,100,10,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+BNa40,175,200,100,0,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+SNa40_1,175,200,100,100,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+BNa40,175,200,100,0,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+SNa40_2,175,200,100,125,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+BNa40,175,200,100,0,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+SNa40_3,175,200,100,150,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+BNa40,175,200,100,0,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3
+SNa40_4,175,200,100,165,0,0,40,"water, KCl, KP, NH4OH, NaHCO3, BSA, PEG",BSA structure factors with NaHCO3

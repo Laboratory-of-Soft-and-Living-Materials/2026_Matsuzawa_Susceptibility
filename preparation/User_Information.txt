@@ -1,0 +1,2 @@
+OT-2 IP Address: ENTER_IP_ADDRESS OF OT-2 (e.g. 10.49.62.184)
+SSH Key Location: /FULL/PATH/TO/SSH_KEY (e.g. ~/.ssh/ot2_ssh_key)
