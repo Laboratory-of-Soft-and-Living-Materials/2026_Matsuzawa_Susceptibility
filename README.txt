@@ -2,6 +2,7 @@
 
 **Author:** Takumi Matsuzawa
 **Last updated:** April 27, 2026
+**Contact** tm688_at_cornell.edu or takumi.matz_at_gmail.com
 
 ## 1) Description
 
