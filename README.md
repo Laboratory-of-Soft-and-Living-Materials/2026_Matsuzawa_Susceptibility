@@ -9,7 +9,7 @@
 This repository contains scripts and a Jupyter notebook used in:
 
 > Matsuzawa et al. (2026), *Susceptibility and Regulation of Biomolecular
-Condensates by Solutes*, PNAS (accepted).
+Condensates by Solutes*, *PNAS* (accepted).
 
 * **Preprint:** https://www.biorxiv.org/content/10.64898/2026.01.14.699531v3
 * The codebase is designed to automate the preparation of phase-separated samples using the Opentrons OT-2 liquid-handling robot.
