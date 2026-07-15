@@ -1,4 +1,4 @@
-# 2026_Matsuzawa_Susceptibility
+# MIXIT: Automated Sample Preparation with Arbitrary Compositions and Mixing Orders
 
 **Author:** Takumi Matsuzawa
 **Last updated:** July 15, 2026
